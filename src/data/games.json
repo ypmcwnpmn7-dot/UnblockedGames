@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "The classic sliding tile puzzle game where you combine numbers to reach the 2048 tile.",
+    "thumbnail": "https://picsum.photos/seed/game2048/400/300",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "An fast-paced puzzle game inspired by Tetris, but in a hexagon!",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "iframeUrl": "https://hextris.io/",
+    "category": "Arcade"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Drive a ball down a series of slope platforms without falling off.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "iframeUrl": "https://kiz10.com/games/slope/",
+    "category": "Action"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road? Find out in this endless hopper.",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300",
+    "iframeUrl": "https://poki.com/en/g/crossy-road",
+    "category": "Arcade"
+  },
+  {
+    "id": "smash-karts",
+    "title": "Smash Karts",
+    "description": "3D multiplayer kart battle game. Drive fast and blow up your friends.",
+    "thumbnail": "https://picsum.photos/seed/karts/400/300",
+    "iframeUrl": "https://smashkarts.io/",
+    "category": "Action"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The world-famous tile-matching puzzle game.",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "category": "Puzzle"
+  }
+]
